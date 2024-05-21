@@ -99,7 +99,7 @@ if len(sys.argv) > 1 and sys.argv[1] == 'sdist':
 
 # run the setup
 setup(
-  name='django-mako-plus',
+  name='django-mako-plus-enoch',
   description=description,
   long_description=long_description,
   version=VERSION,
