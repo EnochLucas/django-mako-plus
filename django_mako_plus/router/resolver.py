@@ -210,6 +210,8 @@ class PagePattern(URLPattern):
                         url_name=match.url_name,
                         app_names=routing_data.app,
                         route=str(self.pattern),
+                        #django 4.1 change
+                        extra_kwargs={},
                     )
             except ViewDoesNotExist as vdne:
                 # we had a pattern match, but we couldn't get a callable using kwargs from the pattern
