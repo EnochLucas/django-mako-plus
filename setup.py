@@ -102,7 +102,7 @@ setup(
   name='django-mako-plus-enoch',
   description=description,
   long_description=long_description,
-  version=VERSION,
+  version='5.12.0',
   author='Conan Albrecht',
   author_email='doconix@gmail.com',
   url="https://github.com/EnochLucas/django-mako-plus",
