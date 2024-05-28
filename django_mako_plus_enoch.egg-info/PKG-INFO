@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: django-mako-plus-enoch
+Name: django-mako-plus
 Version: 5.11.2
 Summary: Django+Mako: Routing by Convention, Python-Centric Template Language
 Home-page: http://doconix.github.io/django-mako-plus/
