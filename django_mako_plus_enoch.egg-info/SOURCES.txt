@@ -85,9 +85,3 @@ django_mako_plus/webroot/dmp-common.src.js
 django_mako_plus/webroot/package-lock.json
 django_mako_plus/webroot/package.json
 django_mako_plus/webroot/webpack.config.js
-django_mako_plus_enoch.egg-info/PKG-INFO
-django_mako_plus_enoch.egg-info/SOURCES.txt
-django_mako_plus_enoch.egg-info/dependency_links.txt
-django_mako_plus_enoch.egg-info/entry_points.txt
-django_mako_plus_enoch.egg-info/requires.txt
-django_mako_plus_enoch.egg-info/top_level.txt
